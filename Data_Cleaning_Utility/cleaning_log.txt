@@ -1,0 +1,11 @@
+DATA CLEANING LOG
+========================================
+
+- Standardized all column names.
+- Converted age column to numeric.
+- Converted purchase_amount column to numeric.
+- Parsed purchase_date and handled invalid dates.
+- Filled missing age values using median.
+- Filled missing purchase amounts using median.
+- Filled missing dates using mode.
+- Removed 3 duplicate row(s).
